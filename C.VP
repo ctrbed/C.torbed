@@ -1,0 +1,7 @@
+echo "# C.torbed" >> README.md 
+git init 
+git add README.md 
+git Commit -m "first Commit" 
+git Branch -M main 
+git Remote add Origin https://github.com/ctrbed/C.torbed. git
+ git Push -u الأصل الرئيسي
